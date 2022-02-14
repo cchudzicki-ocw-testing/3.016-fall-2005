@@ -5,7 +5,12 @@ description: This resource contains information on The calculus of curves, scala
   and directional derivatives.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/bd8c65d9aa7d7e3db2761a6479b772f8_lecture_12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_12.pdf
+type: OCWFile
 uid: bd8c65d9-aa7d-7e3d-b276-1a6479b772f8
 ---

@@ -5,7 +5,12 @@ description: 'This file contains topics: ordinary differential equations from ph
   ODES.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/c9f632f01ebeea5187713c196065827b_lecture_20.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_20.pdf
+type: OCWFile
 uid: c9f632f0-1ebe-ea51-8771-3c196065827b
 ---

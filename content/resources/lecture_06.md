@@ -4,7 +4,12 @@ description: This resource contains information on vectors and matrices and matr
   operations.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/cda0f02a624284c154e499cf773a824e_lecture_06.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_06.pdf
+type: OCWFile
 uid: cda0f02a-6242-84c1-54e4-99cf773a824e
 ---

@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Image
 title: mathematica_ref.jpg
+type: OCWImage
 uid: b435652c-eceb-74ce-41b2-df13a3d501f2
 ---

@@ -6,7 +6,12 @@ description: This resource contains information on periodic functions, odd and e
   series.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/c0aecfc551c60ea1b4f8ceec4992b4eb_lecture_17.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_17.pdf
+type: OCWFile
 uid: c0aecfc5-51c6-0ea1-b4f8-ceec4992b4eb
 ---
