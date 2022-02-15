@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Other
 title: Lecture23.zip
-type: OCWFile
 uid: 918627c6-f955-8a85-5087-f1d8468c1fb8
 ---
