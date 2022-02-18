@@ -62,7 +62,7 @@ L2
 Introduction to Mathematica®, Assignment and Evaluation, Rules and Replacement, Procedural and Functional Programming
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_02))
+({{< resource_link 9fbd9fef-9bb1-b25e-48bf-6d1bfedd4ecd "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-02/Lecture-02.xml))
@@ -80,7 +80,7 @@ L3
 Mathematica® Graphics: Basic Plotting, Data, Two- and Three-dimensional Plotting, Graphics Primitives, Formatting
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_03))
+({{< resource_link 58b2b2f2-478a-b6e1-4599-e1865b1e233e "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-03/Lecture-03.xml))
@@ -98,7 +98,7 @@ L4
 Mathematica®: Symbolic and Numeric Calculations, Linear Algebra, Roots of Equations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_04))
+({{< resource_link 12e8d3a2-6bee-4e04-f880-c9a203959fbb "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-04/Lecture-04.xml))
@@ -116,13 +116,13 @@ L5
 Mathematica®: Functional Programming, Packages, and File Input/Output
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_05))
+({{< resource_link 05a4a321-91bb-4a9a-e821-4d6a731b97e6 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-05/Lecture-05.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/lecture05)) (The ZIP file contains: Lecture-05.nb.)
+({{< resource_link 5e539478-3586-042c-3ed4-923e03e7eac1 "ZIP" >}}) (The ZIP file contains: Lecture-05.nb.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +134,7 @@ L6
 Linear Algebra: Matrix Operations, Interpretations of Matrix Operations, Multiplication, Transposes, Index Notation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_06))
+({{< resource_link cda0f02a-6242-84c1-54e4-99cf773a824e "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-06/Lecture-06.xml))
@@ -152,7 +152,7 @@ L7
 Linear Algebra: Solutions to Linear Systems of Equations, Determinants, Matrix Inverses, Linear Transformations and Vector Spaces
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_07))
+({{< resource_link bc8e3cf9-cfe2-0bf8-52ac-d14e1a347cd9 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-07/Lecture-07.xml))
@@ -179,7 +179,7 @@ L8
 Complex Numbers: Complex Plane, Addition and Multiplication, Complex Conjugates, Polar Form of Complex Numbers, Powers and Roots, Exponentiation, Hyperbolic and Trigonometric Forms
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_08))
+({{< resource_link 9be316ac-8cca-3ad6-17f8-b0724166fee5 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-08/Lecture-08.xml))
@@ -197,7 +197,7 @@ L9
 Matrix Eigenvalues: Eigenvalue/Eigenvector Definitions, Invariants, Principal Directions and Values, Symmetric, Skew-symmetric, and Orthogonal Systems, Orthogonal Transformations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_09))
+({{< resource_link c627a101-f9c5-fb46-8180-d42ecdaf755e "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-09/Lecture-09.xml))
@@ -215,7 +215,7 @@ L10
 Hermitian Forms, Similar Matrices, Eigenvalue Basis, Diagonal Forms
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_10))
+({{< resource_link 5709417a-380d-c466-c822-d4484ca46b17 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-10/Lecture-10.xml))
@@ -233,13 +233,13 @@ L11
 Vector Calculus: Vector Algebra, Inner Products, Cross Products, Determinants as Triple Products, Derivatives of Vectors
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_11))
+({{< resource_link 24516dca-3729-b9f3-7333-0a6e513cf428 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-11/Lecture-11.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP - 14.4 MB]({{< baseurl >}}/resources/lecture11)) (The ZIP file contains: Lecture-11.nb.)
+({{< resource_link 638f9ae6-5a92-ce94-e59e-d54811c2779a "ZIP - 14.4 MB" >}}) (The ZIP file contains: Lecture-11.nb.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -251,13 +251,13 @@ L12
 Multi-variable Calculus: Curves and Arc Length, Differentials of Scalar Functions of Vector Arguments, Chain Rules for Several Variables, Change of Variable and Thermodynamic Notation, Gradients and Directional Derivatives
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_12))
+({{< resource_link bd8c65d9-aa7d-7e3d-b276-1a6479b772f8 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-12/Lecture-12.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP - 3.6 MB]({{< baseurl >}}/resources/lecture12)) (The ZIP file contains: Lecture-12.nb.)
+({{< resource_link 4767d40e-1a9e-d1da-43ad-f3614b432900 "ZIP - 3.6 MB" >}}) (The ZIP file contains: Lecture-12.nb.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -269,13 +269,13 @@ L13
 Vector Differential Operations: Divergence and its Interpretation, Curl and its Interpretation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_13))
+({{< resource_link c9408261-22ae-748c-de28-ebc7f5c73cd6 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-13/Lecture-13.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP - 1.1 MB]({{< baseurl >}}/resources/lecture13)) (The ZIP file contains: Lecture-13.nb.)
+({{< resource_link 576e753b-a21a-0c99-e512-7c33feedd364 "ZIP - 1.1 MB" >}}) (The ZIP file contains: Lecture-13.nb.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -287,13 +287,13 @@ L14
 Path Integration: Integral over a Curve, Change of Variables, Multidimensional Integrals
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_14))
+({{< resource_link 1be1c52e-b00b-1103-3e93-53e0e3d52d4c "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-14/Lecture-14.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/lecture14)) (The ZIP file contains: Lecture-14.nb.)
+({{< resource_link f41caf8a-de6f-af68-6e60-14fa3672827e "ZIP" >}}) (The ZIP file contains: Lecture-14.nb.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -305,13 +305,13 @@ L15
 Multidimensional Forms of the Fundamental Theorem of Calculus: Green's Theorem in the Plane, Surface Representations and Integrals
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_15))
+({{< resource_link 2294b75f-78fe-3157-08de-beeecc64c225 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-15/Lecture-15.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP - 7.5 MB]({{< baseurl >}}/resources/lecture15)) (The ZIP file contains: Lecture-15.nb.)
+({{< resource_link 9eb2ae1e-6126-6519-f182-d1437ad72086 "ZIP - 7.5 MB" >}}) (The ZIP file contains: Lecture-15.nb.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -332,7 +332,7 @@ L16
 Multi-variable Calculus: Triple Integrals and Divergence Theorem, Applications and Interpretation of the Divergence Theorem, Stokes' Theorem.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_16))
+({{< resource_link a7d2879c-4943-2a32-d440-28e799c3874a "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-16/Lecture-16.xml))
@@ -350,13 +350,13 @@ L17
 Periodic Functions: Fourier Series, Interpretation of Fourier Coefficients, Convergence, Odd and Even Expansions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_17))
+({{< resource_link c0aecfc5-51c6-0ea1-b4f8-ceec4992b4eb "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-17/Lecture-17.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP - 1.2 MB]({{< baseurl >}}/resources/lecture17)) (The ZIP file contains: Lecture-17.nb.)
+({{< resource_link 0144d0b6-4c02-9106-061f-c5b688754ace "ZIP - 1.2 MB" >}}) (The ZIP file contains: Lecture-17.nb.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -368,13 +368,13 @@ L18
 Fourier Theory: Complex Form of Fourier Series, Fourier Integrals, Fourier Cosine and Sine Transforms, The Fourier Transforms
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_18))
+({{< resource_link f1250389-8cdc-9d85-2e43-3261cd3f418b "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-18/Lecture-18.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP - 33.7 MB]({{< baseurl >}}/resources/lecture18)) (The ZIP file contains: Lecture-18.nb.)
+({{< resource_link d43d16aa-2aa0-0e5a-c170-ac148986d1e0 "ZIP - 33.7 MB" >}}) (The ZIP file contains: Lecture-18.nb.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -386,13 +386,13 @@ L19
 Ordinary Differential Equations: Physical Interpretations, Geometrical Interpretations, Separable Equations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_19))
+({{< resource_link 0a0ecfa1-1939-073c-5297-ca66620b0763 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-19/Lecture-19.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/lecture19)) (The ZIP file contains: Lecture-19.nb.)
+({{< resource_link f69b772c-6944-e6fd-1fc5-67bec97765df "ZIP" >}}) (The ZIP file contains: Lecture-19.nb.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -404,7 +404,7 @@ L20
 ODEs: Derivations for Simple Models, Exact Equations and Integrating Factors, The Bernoulli Equation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_20))
+({{< resource_link c9f632f0-1ebe-ea51-8771-3c196065827b "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-20/Lecture-20.xml))
@@ -422,7 +422,7 @@ L21
 Higher Order Differential Equations: Homogeneous Second Order, Initial Value Problems, Second Order with Constant Coefficients, Solution Behavior
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_21))
+({{< resource_link cbe2ade0-6416-f437-92c0-6e9172318541 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-21/Lecture-21.xml))
@@ -449,7 +449,7 @@ L22
 Differential Operators, Damped and Forced Harmonic Oscillators, Non-homogeneous Equations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_22))
+({{< resource_link 45306506-0e4f-e8a7-db94-00e7c42e5ab8 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-22/Lecture-22.xml))
@@ -467,13 +467,13 @@ L23
 Resonance Phenomena, Higher Order Equations, Beam Theory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_23))
+({{< resource_link c16bb77c-1da0-3e02-9eb9-8e8ffc10ee5c "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-23/Lecture-23.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/lecture23)) (The ZIP file contains: Lecture-23.nb.)
+({{< resource_link 918627c6-f955-8a85-5087-f1d8468c1fb8 "ZIP" >}}) (The ZIP file contains: Lecture-23.nb.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -485,13 +485,13 @@ L24
 Systems of Differential Equations, Linearization, Stable Points, Classification of Stable Points
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_24))
+({{< resource_link d6e7a49d-1c58-9edc-c92d-167a71d5c180 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-24/Lecture-24.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/lecture24)) (The ZIP file contains: Lecture-24.nb.)
+({{< resource_link 2944900f-8670-695e-34be-3cdc98affcf1 "ZIP" >}}) (The ZIP file contains: Lecture-24.nb.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -503,13 +503,13 @@ L25
 Linear Differential Equations: Phase Plane Analysis and Visualization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_25))
+({{< resource_link 48e28532-b4e6-3d93-20b8-1fd7110c3b70 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-25/Lecture-25.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP - 3.1 MB]({{< baseurl >}}/resources/lecture25)) (The ZIP file contains: Lecture-25.nb.)
+({{< resource_link 967bbd87-5af1-6667-b4a9-0146b25ac299 "ZIP - 3.1 MB" >}}) (The ZIP file contains: Lecture-25.nb.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -521,13 +521,13 @@ L26
 Solutions to Differential Equations: Legendre's Equation, Orthogonality of Legendre Polynomials, Bessel's Equation and Bessel Functions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_26))
+({{< resource_link e1dee19b-5cc4-7b3c-ac99-2ab9aa88beb5 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-26/Lecture-26.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP - 4.0 MB]({{< baseurl >}}/resources/lecture26)) (The ZIP file contains: Lecture-26.nb.)
+({{< resource_link 9b3ed745-c410-bb87-569c-c83cefbcd4e1 "ZIP - 4.0 MB" >}}) (The ZIP file contains: Lecture-26.nb.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -539,7 +539,7 @@ L27
 Sturm-Louiville Problems: Eigenfunction, Orthogonal Functional Series, Eigenfunction Expansions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_27))
+({{< resource_link 4c57c6d1-07a9-c5fd-6fc6-70a096643a7d "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-27/Lecture-27.xml))

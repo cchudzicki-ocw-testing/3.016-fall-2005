@@ -60,7 +60,7 @@ L2
 Introduction to Mathematica®, Assignment and Evaluation, Rules and Replacement, Procedural and Functional Programming
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes]({{< baseurl >}}/pages/lecture-notes) and Mathematica® notebook.
+{{< resource_link 5aea1f21-249f-c24b-e22b-9c38fbac095e "Lecture notes" >}} and Mathematica® notebook.
 {{< tdclose >}}
 
 {{< trclose >}}
