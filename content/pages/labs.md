@@ -13,12 +13,12 @@ This page presents information for two of the labs.
 
 There will be a laboratory each week that 3.016 meets. The labs will be practical and focused on using Mathematica® effectively. Professor Samuel Allen will assist with the labs.
 
-There will be assigned {{< resource_link 9fc88898-1a4a-889a-8dce-547f7131f69a "reading" >}} from the Mathematica® help browser that comes with the software. You should always do this reading before the laboratory, or you may not be able to **finish your assignment and turn it in before the end of the laboratory in order to get credit**.  
+There will be assigned {{% resource_link 9fc88898-1a4a-889a-8dce-547f7131f69a "reading" %}} from the Mathematica® help browser that comes with the software. You should always do this reading before the laboratory, or you may not be able to **finish your assignment and turn it in before the end of the laboratory in order to get credit**.  
 If you stay current in the course material and do the homeworks, you should have no difficulty doing the laboratory assignments if you do the pre-assigned reading.
 
-Lab 1 ({{< resource_link da89489c-9aca-a9b6-8dcb-d1e5fe9d1008 "PDF" >}})
+Lab 1 ({{% resource_link da89489c-9aca-a9b6-8dcb-d1e5fe9d1008 "PDF" %}})
 
-Lab 4 ({{< resource_link 1af353d9-1670-e06c-2220-1842917afddb "PDF" >}})
+Lab 4 ({{% resource_link 1af353d9-1670-e06c-2220-1842917afddb "PDF" %}})
 
 Data file for Lab 4: randomwalk.dat ([DAT](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/labs/randomwalk.dat))
 

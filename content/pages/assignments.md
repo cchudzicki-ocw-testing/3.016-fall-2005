@@ -27,7 +27,7 @@ GRADING WEIGHTS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1 ({{< resource_link 41e885e3-0d56-3288-3ff1-ce29dfe833ca "PDF" >}})
+Problem Set 1 ({{% resource_link 41e885e3-0d56-3288-3ff1-ce29dfe833ca "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ps1\_sol.nb ([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/assignments/ps1_sol.nb))
@@ -39,7 +39,7 @@ ps1\_sol.nb ([NB](/courses/materials-science-and-engineering/3-016-mathematics-f
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 2 ({{< resource_link 982687f1-8b76-9226-b8b8-c1b3b3ad0faf "PDF" >}})
+Problem Set 2 ({{% resource_link 982687f1-8b76-9226-b8b8-c1b3b3ad0faf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ps2\_setup.nb ([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/assignments/ps2_setup.nb))  
@@ -53,7 +53,7 @@ ps2\_sol.nb ([NB](/courses/materials-science-and-engineering/3-016-mathematics-f
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 3 ({{< resource_link 6bd77803-1ba6-cec5-5452-757bc5625fe9 "PDF" >}})
+Problem Set 3 ({{% resource_link 6bd77803-1ba6-cec5-5452-757bc5625fe9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ps3\_sol.nb ([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/assignments/ps3_sol.nb))
@@ -65,7 +65,7 @@ ps3\_sol.nb ([NB](/courses/materials-science-and-engineering/3-016-mathematics-f
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 4 ({{< resource_link dc68a9b1-320c-b016-52e3-b4c532e80a52 "PDF" >}})
+Problem Set 4 ({{% resource_link dc68a9b1-320c-b016-52e3-b4c532e80a52 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -77,7 +77,7 @@ Problem Set 4 ({{< resource_link dc68a9b1-320c-b016-52e3-b4c532e80a52 "PDF" >}})
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 5 ({{< resource_link 5a3ba740-826e-4df7-0e5b-f688087784de "PDF" >}})
+Problem Set 5 ({{% resource_link 5a3ba740-826e-4df7-0e5b-f688087784de "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -89,7 +89,7 @@ Problem Set 5 ({{< resource_link 5a3ba740-826e-4df7-0e5b-f688087784de "PDF" >}})
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 6 ({{< resource_link d0c91dd4-10b3-f92f-5654-9200ed1981b9 "PDF" >}})
+Problem Set 6 ({{% resource_link d0c91dd4-10b3-f92f-5654-9200ed1981b9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
