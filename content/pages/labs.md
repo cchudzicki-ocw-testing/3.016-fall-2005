@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Labs
 uid: 2bccc476-62f6-8437-3d24-9acff249489f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Note: Users may find additional or updated materials at Professor Carter's [3.016 course Web site](http://pruffle.mit.edu/3.016).

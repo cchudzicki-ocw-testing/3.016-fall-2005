@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecture_27.pdf
 uid: 4c57c6d1-07a9-c5fd-6fc6-70a096643a7d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

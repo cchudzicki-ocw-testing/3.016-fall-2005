@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: Lecture23.zip
 uid: 918627c6-f955-8a85-5087-f1d8468c1fb8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

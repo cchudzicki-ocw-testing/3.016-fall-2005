@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: f373a8e3-5164-4924-8ca6-8954cc15eb49
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The calendar below provides information on the course's lectures (L) and labs (Lab) sessions.

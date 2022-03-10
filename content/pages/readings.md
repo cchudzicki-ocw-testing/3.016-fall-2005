@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: 9fc88898-1a4a-889a-8dce-547f7131f69a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Note: Users may find additional or updated materials at Professor Carter's [3.016 course Web site](http://pruffle.mit.edu/3.016).

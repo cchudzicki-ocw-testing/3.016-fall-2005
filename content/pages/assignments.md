@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 41cd701d-a23f-2d39-b7a7-11f15af72a9e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Note: Users may find additional or updated materials at Professor Carter's [3.016 course Web site](http://pruffle.mit.edu/3.016).

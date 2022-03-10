@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: mathematica_ref.jpg
 uid: b435652c-eceb-74ce-41b2-df13a3d501f2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

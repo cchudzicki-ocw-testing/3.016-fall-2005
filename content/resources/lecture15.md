@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: Lecture15.zip
 uid: 9eb2ae1e-6126-6519-f182-d1437ad72086
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

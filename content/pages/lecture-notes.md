@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 5aea1f21-249f-c24b-e22b-9c38fbac095e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Users may find additional or updated materials at Professor Carter's [3.016 course Web site](http://pruffle.mit.edu/3.016).
