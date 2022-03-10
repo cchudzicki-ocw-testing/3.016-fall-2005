@@ -163,7 +163,7 @@ The lecture notes will also refer to Mathematica® notebooks available in the {{
 
 References to Mathematica® notebooks look like this:
 
-![Mathematica® example.](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/syllabus/mathematica_ref.jpg)
+{{< resource b435652c-eceb-74ce-41b2-df13a3d501f2 "Mathematica® example." >}}
 
 Mathematica® example.
 

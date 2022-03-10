@@ -150,7 +150,7 @@ Solving Linear Systems of Equations
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs) Lab Week 1; 3.016 does not meet.**
+**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs/_index) Lab Week 1; 3.016 does not meet.**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -288,7 +288,7 @@ Graphical Representations in Three and Higher Dimensions
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs) Lab Week 2; 3.016 does not meet.**
+**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs/_index) Lab Week 2; 3.016 does not meet.**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -378,7 +378,7 @@ Homework 5 out
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs) Lab Week 3; 3.016 does not meet.**
+**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs/_index) Lab Week 3; 3.016 does not meet.**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -470,7 +470,7 @@ Homework 6 due
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs) Lab Week 4; 3.016 does not meet.**
+**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs/_index) Lab Week 4; 3.016 does not meet.**
 {{< tdclose >}}
 
 {{< trclose >}}
