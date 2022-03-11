@@ -72,7 +72,7 @@ Introduction to Mathematica®, Assignment and Evaluation, Rules and Replacement,
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-02/Lecture-02.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture02.nb))
+({{% resource_link ce85ca57-93a1-d8c3-3427-a9859b59257f "NB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +90,7 @@ Mathematica® Graphics: Basic Plotting, Data, Two- and Three-dimensional Plottin
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-03/Lecture-03.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture03.nb))
+({{% resource_link 93a594b2-3da4-10a6-e3fa-35bd6b2cfc3d "NB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +108,7 @@ Mathematica®: Symbolic and Numeric Calculations, Linear Algebra, Roots of Equat
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-04/Lecture-04.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture04.nb))
+({{% resource_link 52eb49a7-2923-6be1-479e-40bd92c995bd "NB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +144,7 @@ Linear Algebra: Matrix Operations, Interpretations of Matrix Operations, Multipl
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-06/Lecture-06.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture06.nb))
+({{% resource_link ab3dfd16-2515-f26c-45aa-fbd12fbe06dc "NB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +162,7 @@ Linear Algebra: Solutions to Linear Systems of Equations, Determinants, Matrix I
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-07/Lecture-07.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture07.nb))
+({{% resource_link 9f57a6ba-7e1f-b3e6-8bae-773eb78351d7 "NB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +189,7 @@ Complex Numbers: Complex Plane, Addition and Multiplication, Complex Conjugates,
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-08/Lecture-08.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture08.nb))
+({{% resource_link 8c551fce-b4f0-db98-145e-ab87148daa69 "NB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +207,7 @@ Matrix Eigenvalues: Eigenvalue/Eigenvector Definitions, Invariants, Principal Di
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-09/Lecture-09.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture09.nb))
+({{% resource_link db7d78c4-e059-3066-3f46-30e2f0ad8724 "NB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +225,7 @@ Hermitian Forms, Similar Matrices, Eigenvalue Basis, Diagonal Forms
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-10/Lecture-10.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture10.nb))
+({{% resource_link 53307a3a-7572-8a78-32ab-41503e8f3544 "NB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -342,7 +342,7 @@ Multi-variable Calculus: Triple Integrals and Divergence Theorem, Applications a
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-16/Lecture-16.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture16.nb))
+({{% resource_link 98d75553-4064-c069-08b1-75054c497802 "NB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -414,7 +414,7 @@ ODEs: Derivations for Simple Models, Exact Equations and Integrating Factors, Th
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-20/Lecture-20.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture20.nb))
+({{% resource_link 830d0d70-261f-f317-49d7-4c186d9f4ff9 "NB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -432,7 +432,7 @@ Higher Order Differential Equations: Homogeneous Second Order, Initial Value Pro
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-21/Lecture-21.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture21.nb))
+({{% resource_link a942e46b-b107-6ff1-8f96-71ef3f50b89a "NB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -459,7 +459,7 @@ Differential Operators, Damped and Forced Harmonic Oscillators, Non-homogeneous 
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-22/Lecture-22.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture22.nb))
+({{% resource_link 43878e9a-b637-9790-9f79-7806bf2ad950 "NB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -549,7 +549,7 @@ Sturm-Louiville Problems: Eigenfunction, Orthogonal Functional Series, Eigenfunc
 ([MathML](/ans7870/3/3.016/f05/lecturenotes/Lecture-27/Lecture-27.xml))
 {{< tdclose >}}
 {{< tdopen >}}
-([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/Lecture27.nb))
+({{% resource_link 4cea765b-c6f4-fb53-bb39-f28c8c9ffbbb "NB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

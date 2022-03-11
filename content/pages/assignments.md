@@ -34,7 +34,7 @@ GRADING WEIGHTS
 Problem Set 1 ({{% resource_link 41e885e3-0d56-3288-3ff1-ce29dfe833ca "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-ps1\_sol.nb ([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/assignments/ps1_sol.nb))
+ps1\_sol.nb ({{% resource_link 99c07257-aadf-f648-6b99-524c2071a3a0 "NB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 0.5
@@ -46,9 +46,9 @@ ps1\_sol.nb ([NB](/courses/materials-science-and-engineering/3-016-mathematics-f
 Problem Set 2 ({{% resource_link 982687f1-8b76-9226-b8b8-c1b3b3ad0faf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-ps2\_setup.nb ([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/assignments/ps2_setup.nb))  
+ps2\_setup.nb ({{% resource_link 5d27f11d-4800-9330-db42-9307d2f85891 "NB" %}})  
   
-ps2\_sol.nb ([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/assignments/ps2_sol.nb))
+ps2\_sol.nb ({{% resource_link 16fcd3f2-9786-7bec-6f16-9bbfbc601c8e "NB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 1.0
@@ -60,7 +60,7 @@ ps2\_sol.nb ([NB](/courses/materials-science-and-engineering/3-016-mathematics-f
 Problem Set 3 ({{% resource_link 6bd77803-1ba6-cec5-5452-757bc5625fe9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-ps3\_sol.nb ([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/assignments/ps3_sol.nb))
+ps3\_sol.nb ({{% resource_link c3d23f99-b703-df75-a2ff-f5a401d4b09e "NB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 1.5

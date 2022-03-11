@@ -24,9 +24,9 @@ Lab 1 ({{% resource_link da89489c-9aca-a9b6-8dcb-d1e5fe9d1008 "PDF" %}})
 
 Lab 4 ({{% resource_link 1af353d9-1670-e06c-2220-1842917afddb "PDF" %}})
 
-Data file for Lab 4: randomwalk.dat ([DAT](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/labs/randomwalk.dat))
+Data file for Lab 4: randomwalk.dat ({{% resource_link e2237845-6402-639a-5dbd-47c6b874f42f "DAT" %}})
 
-Mathematica® notebook for Lab 4 data setup and sorting: 3016\_Allen\_Lab04.nb ([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/labs/3016_Allen_Lab04.nb))
+Mathematica® notebook for Lab 4 data setup and sorting: 3016\_Allen\_Lab04.nb ({{% resource_link e329d1b1-5040-93a3-b8f4-bf119fa2e70a "NB" %}})
 
 Style Sheet for 3.016 Mathematica® Notebooks: 3016\_Carter.nb ([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/labs/3016_Carter.nb))  
 The style sheet defines the presentation of this course's .nb files, and should be downloaded to a local directory before opening other .nb files.
