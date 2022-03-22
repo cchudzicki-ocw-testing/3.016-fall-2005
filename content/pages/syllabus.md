@@ -163,7 +163,7 @@ The lecture notes will also refer to Mathematica® notebooks available in the {{
 
 References to Mathematica® notebooks look like this:
 
-{{< resource b435652c-eceb-74ce-41b2-df13a3d501f2 "Mathematica® example." >}}
+{{< resource "b435652c-eceb-74ce-41b2-df13a3d501f2" >}}
 
 Mathematica® example.
 
