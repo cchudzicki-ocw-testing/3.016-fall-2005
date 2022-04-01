@@ -15,7 +15,7 @@ Users may find additional or updated materials at Professor Carter's [3.016 cour
 
 Each lecture session uses lecture notes and Mathematica® examples. The Mathematica® examples are provided in two formats: Mathematica® notebook files (.nb) and MathML files.
 
-Style Sheet for 3.016 Mathematica® Notebooks: ([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/lecture-notes/3016_Carter.nb)).  
+Style Sheet for 3.016 Mathematica® Notebooks: ({{% resource_link "cad3463e-9d3d-7c09-e53d-5b7e63f38c5d" "NB" %}}).  
 The style sheet defines the presentation of this course's .nb files, and should be downloaded to a local directory before opening other .nb files.
 
 {{< tableopen >}}
@@ -168,7 +168,7 @@ Linear Algebra: Solutions to Linear Systems of Equations, Determinants, Matrix I
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs/_index) Lab Week 1; 3.016 does not meet.**
+**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs) Lab Week 1; 3.016 does not meet.**
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -321,7 +321,7 @@ Multidimensional Forms of the Fundamental Theorem of Calculus: Green's Theorem i
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs/_index) Lab Week 2; 3.016 does not meet.**
+**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs) Lab Week 2; 3.016 does not meet.**
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -438,7 +438,7 @@ Higher Order Differential Equations: Homogeneous Second Order, Initial Value Pro
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs/_index) Lab Week 3; 3.016 does not meet.**
+**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs) Lab Week 3; 3.016 does not meet.**
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -555,7 +555,7 @@ Sturm-Louiville Problems: Eigenfunction, Orthogonal Functional Series, Eigenfunc
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="4" >}}
-**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs/_index) Lab Week 4; 3.016 does not meet.**
+**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs) Lab Week 4; 3.016 does not meet.**
 {{< tdclose >}}
 {{< tdopen >}}
  

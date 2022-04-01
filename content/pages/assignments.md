@@ -106,7 +106,7 @@ Problem Set 6 ({{% resource_link d0c91dd4-10b3-f92f-5654-9200ed1981b9 "PDF" %}})
 
 {{< tableclose >}}
 
-Style Sheet for 3.016 Mathematica® Notebooks: 3016\_Carter.nb ([NB](/courses/materials-science-and-engineering/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/assignments/3016_Carter.nb))  
+Style Sheet for 3.016 Mathematica® Notebooks: 3016\_Carter.nb ({{% resource_link "83adbe89-1505-819d-1c7e-96c67e77a064" "NB" %}})  
 The style sheet defines the presentation of this course's .nb files, and should be downloaded to a local directory before opening other .nb files.
 
 Professor Samuel Allen assisted with solutions to some problem sets.

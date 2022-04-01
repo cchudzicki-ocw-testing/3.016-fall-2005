@@ -171,7 +171,7 @@ Functions: Inverse, Transpose, Eigensystem, Matrix Multiplication.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs/_index) Lab Week 1; 3.016 does not meet.**
+**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs) Lab Week 1; 3.016 does not meet.**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -314,7 +314,7 @@ _Kreyszig and Norminton: 1.9.1-1.9.7 and 1.9.9-1.9.11.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs/_index) Lab Week 2; 3.016 does not meet.**
+**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs) Lab Week 2; 3.016 does not meet.**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -406,7 +406,7 @@ Kreyszig. Sections 2.1, 2.2, and 2.3.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs/_index) Lab Week 3; 3.016 does not meet.**
+**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs) Lab Week 3; 3.016 does not meet.**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -500,7 +500,7 @@ Kreyszig. Sections 4.7 and 4.8.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs/_index) Lab Week 4; 3.016 does not meet.**
+**[3.014](/courses/3-014-materials-laboratory-fall-2006/pages/labs) Lab Week 4; 3.016 does not meet.**
 {{< tdclose >}}
 
 {{< trclose >}}
