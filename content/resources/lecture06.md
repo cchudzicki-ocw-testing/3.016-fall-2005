@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: This resource contains a supporting file for lecture 6.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/ab3dfd162515f26c45aafbd12fbe06dc_Lecture06.nb
+description: ''
+file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/ab3dfd162515f26c45aafbd12fbe06dc_Lecture06.nb
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,4 @@ resourcetype: Other
 title: Lecture06.nb
 uid: ab3dfd16-2515-f26c-45aa-fbd12fbe06dc
 ---
+This resource contains a supporting file for lecture 6.

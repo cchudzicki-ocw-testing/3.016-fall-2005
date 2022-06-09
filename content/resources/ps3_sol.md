@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: Problem set solutions.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/c3d23f99b703df75a2fff5a401d4b09e_ps3_sol.nb
+description: ''
+file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/c3d23f99b703df75a2fff5a401d4b09e_ps3_sol.nb
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,4 @@ resourcetype: Other
 title: ps3_sol.nb
 uid: c3d23f99-b703-df75-a2ff-f5a401d4b09e
 ---
+Problem set solutions.

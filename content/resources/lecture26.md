@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: This resource contains a supporting file for lecture 26.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/9b3ed745c410bb87569cc83cefbcd4e1_Lecture26.zip
+description: ''
+file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/9b3ed745c410bb87569cc83cefbcd4e1_Lecture26.zip
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains a supporting file for lecture 26.

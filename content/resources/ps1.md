@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: Homework assignment.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/41e885e30d5632883ff1ce29dfe833ca_ps1.pdf
+description: ''
+file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/41e885e30d5632883ff1ce29dfe833ca_ps1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Homework assignment.

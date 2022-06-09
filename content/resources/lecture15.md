@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: This resource contains a supporting file for lecture 15.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/9eb2ae1e61266519f182d1437ad72086_Lecture15.zip
+description: ''
+file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/9eb2ae1e61266519f182d1437ad72086_Lecture15.zip
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains a supporting file for lecture 15.
