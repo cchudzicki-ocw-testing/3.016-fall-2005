@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: This resource contains a supporting file for lecture 17.
 file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/0144d0b64c029106061fc5b688754ace_Lecture17.zip
 file_type: application/zip
 learning_resource_types:

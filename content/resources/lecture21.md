@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: This resource contains a supporting file for lecture 21.
 file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/a942e46bb1076ff18f9671ef3f50b89a_Lecture21.nb
 file_type: text/plain
 learning_resource_types:

@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: Problem set solutions.
 file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/16fcd3f297867bec6f169bbfbc601c8e_ps2_sol.nb
 file_type: text/plain
 learning_resource_types:

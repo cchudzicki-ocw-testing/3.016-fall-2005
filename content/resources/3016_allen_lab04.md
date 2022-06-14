@@ -1,6 +1,7 @@
 ---
 content_type: resource
-description: ''
+description: This resource is the supporting file for style sheet for 3.016 mathematica
+  notebooks.
 file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/e329d1b1504093a3b8f4bf119fa2e70a_3016_Allen_Lab04.nb
 file_type: text/plain
 learning_resource_types:

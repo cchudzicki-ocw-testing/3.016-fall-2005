@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: Handout.
 file: /courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/83adbe891505819d1c7e96c67e77a064_3016_Carter.nb
 file_type: text/plain
 learning_resource_types:
