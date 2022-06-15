@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains information on the Laboratory lectures.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
