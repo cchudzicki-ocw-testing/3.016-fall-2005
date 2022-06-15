@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains information on preface, mathematical software,
+  examination philosphy, homework, laboratory, grades, Accuracy, exposition, beauty,
+  observation, late policy, textbook, lecture notes.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
